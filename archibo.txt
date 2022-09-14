@@ -1,9 +1,10 @@
->titulo>
+<h1>
 DD- Nuevo titulo
 <titulo>
-
 <Doc>
 <html>
 ...
 modi
+</h1>
+
 DD- Pie de Pagina
