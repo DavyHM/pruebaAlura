@@ -1,4 +1,7 @@
+>titulo>
 DD- Nuevo titulo
+<titulo>
+
 <Doc>
 <html>
 modi
