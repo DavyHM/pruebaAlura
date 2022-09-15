@@ -13,3 +13,4 @@ Editado por mi ramita
 
 Trabajo temporal
 Prueba de stash
+Otra prueba de estash pop
